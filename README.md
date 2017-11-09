@@ -7,7 +7,7 @@ Repository for recommender system self-study
     - 추천 엔진을 구축하기 위한 기본서 
 
 2. 코드 구현 
-    - Matrix Factorization (ALS, SGD)
+    - [Matrix Factorization (ALS, SGD)](https://github.com/whikwon/recommender-system/blob/master/code/2016-01-09-explicit-matrix-factorization-als-sgd.ipynb)
 
 3. 논문 
     - [Matrix Factorization Techniques for Recommender Systems](https://whikwon.github.io/posts/Matrix-Factorization-Techniques-for-Recommender-Systems)
